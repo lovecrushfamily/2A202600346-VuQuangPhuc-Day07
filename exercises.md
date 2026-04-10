@@ -13,7 +13,7 @@ No math required — explain conceptually:
 - Give a concrete example of two sentences that would have HIGH similarity and two that would have LOW similarity.
 - Why is cosine similarity preferred over Euclidean distance for text embeddings?
 
-> **Ghi kết quả vào:** Report — Section 1 (Warm-up)
+> **Ghi kết quả vào:** Report — Section 1 (Warm-up) 
 
 ---
 

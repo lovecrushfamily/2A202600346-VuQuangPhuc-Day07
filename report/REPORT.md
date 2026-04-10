@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Warm-up (5 điểm)
+## 1. Warm-up (5 điểm) 
 
 ### Cosine Similarity (Ex 1.1)
 
