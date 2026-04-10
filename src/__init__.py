@@ -1,4 +1,4 @@
-from .agent import KnowledgeBaseAgent
+from .agent import AgentResponse, ConversationTurn, KnowledgeBaseAgent, create_agent, run_agent_loop
 from .chunking import (
     ChunkingStrategyComparator,
     FixedSizeChunker,
@@ -27,6 +27,10 @@ __all__ = [
     "compute_similarity",
     "EmbeddingStore",
     "KnowledgeBaseAgent",
+    "ConversationTurn",
+    "AgentResponse",
+    "create_agent",
+    "run_agent_loop",
     "MockEmbedder",
     "LocalEmbedder",
     "OpenAIEmbedder",

@@ -6,10 +6,13 @@ python-dotenv>=1.0
 #   pip install sentence-transformers
 # Install OpenAI embedder support with:
 #   pip install openai
+# Install OpenRouter chat support like Lab4 with:
+#   pip install langchain-openrouter
 # Install both optional embedders with:
 #   pip install openai sentence-transformers
 # sentence-transformers>=3.0
 # openai>=1.0
+# langchain-openrouter>=0.1
 
 # Optional: for bonus tasks
 # chromadb>=0.4.0      # Real vector database integration
